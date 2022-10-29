@@ -1,14 +1,10 @@
-body {
-	margin: 0;
-	padding: 0;
-	font-family: sans-serif;
+.tilt {
+	display: flex;
+	align-items: center;
+	justify-content: center;
 	background-image: linear-gradient(
 		to right,
 		rgb(78, 136, 212),
 		rgb(151, 211, 211)
 	);
-}
-
-button {
-	cursor: pointer;
 }
