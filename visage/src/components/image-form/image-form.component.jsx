@@ -5,7 +5,7 @@ const ImageForm = () => {
 	return (
 		<div>
 			<p className='f3'>
-				Upload any image with a face, and this AI will detect it!
+				Upload any image containing a face, and this AI will detect it!
 			</p>
 			<div className='center'>
 				<div className='form center pa4 br3 shadow-5'>
